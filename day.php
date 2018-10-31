@@ -14,7 +14,7 @@
   <br><br>
  
 
-<button type="button" onclick="alert('Hello world!')">add</button>
+<button type="button">add</button>
 
 </body>
 </html>
